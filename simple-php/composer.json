@@ -1,0 +1,16 @@
+{
+    "name": "alpha/termwind-demo",
+    "description": "Termiwind demo",
+    "type": "project",
+    "require": {
+        "nunomaduro/termwind": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alpha Olomi",
+            "email": "alphaolomi@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
